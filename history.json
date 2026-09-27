@@ -1,0 +1,679 @@
+{
+ "title": "The history of combustion and conservation of mass",
+ "tagline": "From a million-year-old campfire to the Keeling Curve: how people learned that burning destroys nothing.",
+ "intro": "People used fire for a million years before anyone knew what it was. For most of the 1700s chemists believed burning released a fire substance called phlogiston. Then scientists started weighing everything, in sealed vessels, and found the opposite: burning takes in part of the air, and not a speck of matter is lost.",
+ "eras": [
+  {
+   "id": "fire",
+   "name": "Fire before chemistry",
+   "from": -1000000,
+   "to": 1600,
+   "color": "#ffb547",
+   "summary": "Early humans learn to keep and use fire long before anyone can say what a flame is."
+  },
+  {
+   "id": "phlog",
+   "name": "Fire as a substance",
+   "from": 1600,
+   "to": 1770,
+   "color": "#c49bff",
+   "summary": "Chemists explain burning with phlogiston, a fire stuff that escapes in the flame, while careful weighing starts to turn up awkward facts."
+  },
+  {
+   "id": "oxygen",
+   "name": "The oxygen revolution",
+   "from": 1770,
+   "to": 1800,
+   "color": "#ff6b5e",
+   "summary": "Oxygen is found three times over, and the Lavoisiers show with sealed vessels and balances that burning is joining with it and that mass is conserved."
+  },
+  {
+   "id": "work",
+   "name": "Flames at work, and their cost",
+   "from": 1800,
+   "to": 2026,
+   "color": "#5ce1a9",
+   "summary": "Safety lamps, candle lectures and engines put combustion to work, and measurements show where all that carbon goes."
+  }
+ ],
+ "events": [
+  {
+   "year": -1000000,
+   "date": "c. 1 million years ago",
+   "era": "fire",
+   "art": "flame",
+   "key": true,
+   "title": "Ash deep inside a cave",
+   "who": "Early humans, probably Homo erectus",
+   "where": "Wonderwerk Cave, Northern Cape",
+   "country": "South Africa",
+   "text": "Deep inside Wonderwerk Cave, far from the entrance, scientists found ash from burnt plants and bits of burnt bone in layers about a million years old. Tiny cracks and colours in the bone show it was heated where it lay. It is among the oldest secure signs of people using fire, though some researchers argue for older ones.",
+   "why": "Fire gave early humans warmth, light, safety and cooked food, the first chemistry anyone ever controlled.",
+   "sources": [
+    1,
+    2,
+    0
+   ]
+  },
+  {
+   "year": -500000,
+   "date": "c. 400,000–700,000 years ago (disputed)",
+   "era": "fire",
+   "art": "person",
+   "key": false,
+   "title": "Fire at the Peking Man cave?",
+   "who": "Homo erectus (\"Peking Man\"); dug up from the 1920s",
+   "where": "Zhoukoudian, near Beijing",
+   "country": "China",
+   "text": "Burnt bones and thick dark layers in the Zhoukoudian caves were long taken as the hearths of Peking Man. A careful study in 1998 found burnt bone but no clear ash or hearths, so whether these people kept fires there is still argued about.",
+   "why": "It shows how hard it is to prove who first tamed fire, and why old claims need testing.",
+   "sources": [
+    3,
+    0
+   ]
+  },
+  {
+   "year": 1673,
+   "date": "1673",
+   "era": "phlog",
+   "art": "flask",
+   "key": false,
+   "title": "Metals that get heavier in the fire",
+   "who": "Robert Boyle",
+   "where": "London",
+   "country": "England",
+   "text": "Boyle heated lead and tin in sealed glass vessels. When he opened them and weighed the metal's ash, called a calx, it was heavier than the metal. He guessed that particles of fire had passed through the glass and stuck to it.",
+   "why": "A real clue, misread: he opened the vessel before weighing, so air rushed in and the extra weight was really oxygen.",
+   "sources": [
+    23,
+    7
+   ]
+  },
+  {
+   "year": 1703,
+   "date": "1703",
+   "era": "phlog",
+   "art": "scroll",
+   "key": true,
+   "title": "Phlogiston: fire as a substance",
+   "who": "Georg Ernst Stahl",
+   "where": "Halle",
+   "country": "Prussia (Germany)",
+   "text": "Building on Johann Becher's ideas, Stahl taught that everything that burns holds a fire substance, phlogiston, which escapes in the flame. Charcoal was almost pure phlogiston; a metal was its calx plus phlogiston. The idea explained a lot and ruled chemistry for most of the century.",
+   "why": "It was the first big theory of burning, and it was wrong in a way that pushed chemists to start weighing things.",
+   "sources": [
+    4,
+    5
+   ]
+  },
+  {
+   "year": 1754,
+   "date": "1754 (thesis); published 1756",
+   "era": "phlog",
+   "art": "flask",
+   "key": false,
+   "title": "Fixed air: carbon dioxide is found",
+   "who": "Joseph Black",
+   "where": "University of Edinburgh",
+   "country": "Scotland",
+   "text": "Black heated magnesia alba and chalk and weighed them. They lost weight by giving off a gas he called fixed air, the gas we call carbon dioxide. He later found it in the breath and in the gases from burning charcoal.",
+   "why": "Careful weighing showed that a gas could be part of a solid, and gave chemists the first product of burning.",
+   "sources": [
+    6
+   ]
+  },
+  {
+   "year": 1756,
+   "date": "1756",
+   "era": "phlog",
+   "art": "scales",
+   "key": true,
+   "title": "Lomonosov's sealed flasks",
+   "who": "Mikhail Lomonosov",
+   "where": "St Petersburg",
+   "country": "Russia",
+   "text": "Lomonosov repeated Boyle's test but kept the flasks sealed. Heating metal inside them did not change the total weight; only letting air in did. He had already written to Leonhard Euler in 1748 that matter lost in one place is gained in another. His results were recorded in his notes and were little known in Western Europe.",
+   "why": "He reached the conservation of mass years before Lavoisier, though historians still debate how complete his proof was.",
+   "sources": [
+    7,
+    8,
+    15
+   ]
+  },
+  {
+   "year": 1771,
+   "date": "1771–1772 (published 1777)",
+   "era": "oxygen",
+   "art": "flask",
+   "key": false,
+   "title": "Scheele makes \"fire air\"",
+   "who": "Carl Wilhelm Scheele",
+   "where": "Uppsala",
+   "country": "Sweden",
+   "text": "Scheele, a pharmacist, heated mercury oxide, saltpetre and other substances and collected a gas that made things burn fiercely. He called it fire air. His book describing it was held up at the printer until 1777, so others were credited first.",
+   "why": "He was probably the first to make oxygen, a reminder that discoveries often happen twice.",
+   "sources": [
+    10
+   ]
+  },
+  {
+   "year": 1774,
+   "date": "1 August 1774",
+   "era": "oxygen",
+   "art": "candles",
+   "key": true,
+   "title": "Priestley's candle burns brighter",
+   "who": "Joseph Priestley",
+   "where": "Bowood House, Wiltshire",
+   "country": "England",
+   "text": "Priestley focused sunlight with a large lens onto red mercury calx. A gas came off in which a candle burned with a dazzling flame and a mouse lived longer than in ordinary air. He called it dephlogisticated air and told Lavoisier about it in Paris that October.",
+   "why": "Priestley found oxygen but kept the phlogiston theory; Lavoisier saw what it really meant.",
+   "sources": [
+    9,
+    27
+   ]
+  },
+  {
+   "year": 1774,
+   "date": "1774",
+   "era": "oxygen",
+   "art": "scales",
+   "key": true,
+   "title": "Tin in a sealed retort",
+   "who": "Antoine Lavoisier",
+   "where": "Paris",
+   "country": "France",
+   "text": "Lavoisier heated tin in sealed glass vessels and weighed everything before and after. The total did not change. When he broke the seal, air rushed in, and the weight rose by exactly what the tin had gained.",
+   "why": "The metal was taking something out of the air, not losing phlogiston: the key experiment behind this box's first chapter.",
+   "box": "idea",
+   "sources": [
+    11,
+    12,
+    15
+   ]
+  },
+  {
+   "year": 1777,
+   "date": "1777 (published 1780)",
+   "era": "oxygen",
+   "art": "flame",
+   "key": false,
+   "title": "A new theory of burning",
+   "who": "Antoine Lavoisier",
+   "where": "Paris",
+   "country": "France",
+   "text": "In a paper on combustion in general, Lavoisier argued that burning, rusting and breathing are all a substance joining with part of the air. He named that part oxygène, \"acid maker\", because he wrongly thought all acids contained it.",
+   "why": "It replaced phlogiston with the idea we still use: burning is joining with oxygen.",
+   "sources": [
+    11,
+    24
+   ]
+  },
+  {
+   "year": 1783,
+   "date": "1782–1783",
+   "era": "oxygen",
+   "art": "lungs",
+   "key": false,
+   "title": "Breathing is slow burning",
+   "who": "Antoine Lavoisier and Pierre-Simon Laplace",
+   "where": "Paris",
+   "country": "France",
+   "text": "Lavoisier and Laplace put a guinea pig in an ice calorimeter and measured the heat it gave out and the fixed air it breathed out. Burning charcoal to make the same amount of that gas gave nearly the same heat. Breathing, they concluded, is a slow combustion.",
+   "why": "It linked the flame and the body, the idea behind this box's chapter on fat and breath.",
+   "box": "body",
+   "sources": [
+    24,
+    12
+   ]
+  },
+  {
+   "year": 1788,
+   "date": "1788",
+   "era": "oxygen",
+   "art": "person",
+   "key": false,
+   "title": "Marie-Anne Lavoisier answers the phlogistonists",
+   "who": "Marie-Anne Paulze Lavoisier",
+   "where": "Paris",
+   "country": "France",
+   "text": "Marie-Anne Lavoisier translated Richard Kirwan's Essay on Phlogiston from English into French, adding notes that took its arguments apart. She kept the laboratory's records, took part in experiments and hosted scientists from across Europe.",
+   "why": "Her work spread the new chemistry, though she was rarely credited in her lifetime.",
+   "sources": [
+    13
+   ]
+  },
+  {
+   "year": 1789,
+   "date": "1789",
+   "era": "oxygen",
+   "art": "scroll",
+   "key": true,
+   "title": "The law in a textbook",
+   "who": "Antoine Lavoisier, with drawings by Marie-Anne Lavoisier",
+   "where": "Paris",
+   "country": "France",
+   "text": "Lavoisier's Traité élémentaire de chimie stated that nothing is created in any operation, of art or of nature: the same quantity of matter exists before and after. It listed 33 elements and used a new, logical naming system. Marie-Anne drew its 13 plates of apparatus. Five years later Lavoisier was guillotined in the Revolution.",
+   "why": "It is often called the first modern chemistry textbook, and it made conservation of mass the ground rule of chemistry.",
+   "sources": [
+    14,
+    11,
+    15
+   ]
+  },
+  {
+   "year": 1815,
+   "date": "1815",
+   "era": "work",
+   "art": "candles",
+   "key": false,
+   "title": "A flame that can't escape",
+   "who": "Humphry Davy",
+   "where": "Royal Institution, London",
+   "country": "England",
+   "text": "Coal mines were full of firedamp, methane, which exploded when miners' candles lit it. Davy wrapped the flame in fine iron gauze. The gauze soaks up heat so fast that flame can't pass through it to the gas outside.",
+   "why": "It saved many lives, and showed that a flame needs heat as well as fuel and oxygen.",
+   "sources": [
+    16
+   ]
+  },
+  {
+   "year": 1848,
+   "date": "1848; published 1861",
+   "era": "work",
+   "art": "candles",
+   "key": false,
+   "title": "The Chemical History of a Candle",
+   "who": "Michael Faraday",
+   "where": "Royal Institution, London",
+   "country": "England",
+   "text": "In Christmas lectures for young people, Faraday burned candles and caught what came off. He showed that the wax turns into water and carbon dioxide, using oxygen from the air, and that we do the same when we breathe. He gave the lectures again in 1860, and they became a famous book.",
+   "why": "It is still one of the best explanations of combustion ever written for young people.",
+   "box": "limits",
+   "sources": [
+    17,
+    28
+   ]
+  },
+  {
+   "year": 1876,
+   "date": "1876",
+   "era": "work",
+   "art": "engine",
+   "key": false,
+   "title": "The four-stroke engine",
+   "who": "Nikolaus Otto",
+   "where": "Deutz, near Cologne",
+   "country": "Germany",
+   "text": "Otto built an engine that sucked in fuel and air, squeezed it, burned it and pushed out the exhaust, in four strokes of the piston. Squeezing the mixture before lighting it made it far more efficient than earlier gas engines.",
+   "why": "Nearly every petrol car and motorbike engine still works this way.",
+   "box": "engines",
+   "sources": [
+    18
+   ]
+  },
+  {
+   "year": 1905,
+   "date": "1905",
+   "era": "work",
+   "art": "atomspin",
+   "key": false,
+   "title": "Energy has mass",
+   "who": "Albert Einstein",
+   "where": "Bern",
+   "country": "Switzerland",
+   "text": "In a short paper, Einstein showed that anything that gives out energy E loses mass E ÷ c². For burning, the loss is about one part in ten billion, far too small to weigh.",
+   "why": "It is the one tiny exception to Lavoisier's law, and it matters only in nuclear reactions.",
+   "box": "limits",
+   "sources": [
+    25
+   ]
+  },
+  {
+   "year": 1958,
+   "date": "March 1958",
+   "era": "work",
+   "art": "earth",
+   "key": true,
+   "title": "Measuring the CO₂ we make",
+   "who": "Charles David Keeling",
+   "where": "Mauna Loa Observatory, Hawaii",
+   "country": "United States",
+   "text": "Keeling began measuring carbon dioxide in the air with great precision, high on a Hawaiian volcano. His record, the Keeling Curve, rises every year, with a small wobble as plants grow and die with the seasons.",
+   "why": "It shows the conservation of mass on a planetary scale: the carbon we burn does not vanish, it stays in the air.",
+   "sources": [
+    19,
+    20
+   ]
+  },
+  {
+   "year": 1975,
+   "date": "1975",
+   "era": "work",
+   "art": "car",
+   "key": false,
+   "title": "Catalytic converters arrive",
+   "who": "Carmakers, under the US Clean Air Act",
+   "where": "United States",
+   "country": "United States",
+   "text": "From the 1975 models, most new petrol cars in the US got catalytic converters to meet new limits on carbon monoxide and unburnt fuel. They needed unleaded petrol, because lead ruins the catalyst. Three-way converters that also clean NOx followed a few years later.",
+   "why": "They cut the poisons from incomplete burning, though every gram of fuel carbon still leaves as CO₂.",
+   "box": "engines",
+   "sources": [
+    21,
+    26
+   ]
+  },
+  {
+   "year": 2014,
+   "date": "December 2014",
+   "era": "work",
+   "art": "lungs",
+   "key": false,
+   "title": "Where does lost fat go?",
+   "who": "Ruben Meerman and Andrew Brown",
+   "where": "University of New South Wales, Sydney",
+   "country": "Australia",
+   "text": "Meerman, a physicist, and Brown, a chemist, followed every atom in 10 kg of body fat as it is burned. They found that 8.4 kg leaves as carbon dioxide through the lungs and 1.6 kg as water. Many doctors and trainers they surveyed had guessed it turned into energy or heat.",
+   "why": "It is Lavoisier's law applied to your own body: mass lost has to go somewhere.",
+   "box": "body",
+   "sources": [
+    22
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Secure evidence of fire inside a cave",
+   "value": "c. 1 million years ago",
+   "who": "Wonderwerk Cave, South Africa"
+  },
+  {
+   "label": "First big theory of burning",
+   "value": "1703",
+   "who": "Georg Ernst Stahl's phlogiston, Prussia"
+  },
+  {
+   "label": "Carbon dioxide identified",
+   "value": "1754",
+   "who": "Joseph Black, Edinburgh"
+  },
+  {
+   "label": "Oxygen first made",
+   "value": "1771–1772",
+   "who": "Carl Wilhelm Scheele, Sweden (Priestley independently in 1774)"
+  },
+  {
+   "label": "Mass conserved in sealed vessels",
+   "value": "1756 and 1774",
+   "who": "Mikhail Lomonosov, St Petersburg; Antoine Lavoisier, Paris"
+  },
+  {
+   "label": "Conservation of mass in a textbook",
+   "value": "1789",
+   "who": "Antoine and Marie-Anne Lavoisier, Paris"
+  },
+  {
+   "label": "Continuous record of CO₂ in the air",
+   "value": "1958",
+   "who": "Charles David Keeling, Mauna Loa"
+  }
+ ],
+ "people": [
+  {
+   "name": "Antoine Lavoisier",
+   "life": "1743 – 1794",
+   "role": "Chemist and tax official",
+   "from": "France",
+   "note": "Weighed everything, named oxygen and hydrogen, and made conservation of mass the ground rule of chemistry."
+  },
+  {
+   "name": "Marie-Anne Paulze Lavoisier",
+   "life": "1758 – 1836",
+   "role": "Chemist, translator and illustrator",
+   "from": "France",
+   "note": "Worked beside Antoine in the lab, translated and rebutted the phlogistonists, and drew the plates of his Traité."
+  },
+  {
+   "name": "Mikhail Lomonosov",
+   "life": "1711 – 1765",
+   "role": "Scientist, poet and founder of Moscow University",
+   "from": "Russia",
+   "note": "Showed in 1756 that metals heated in sealed flasks don't change the total weight."
+  },
+  {
+   "name": "Joseph Priestley",
+   "life": "1733 – 1804",
+   "role": "Minister and chemist",
+   "from": "England",
+   "note": "Discovered oxygen in 1774 but defended phlogiston to the end of his life."
+  },
+  {
+   "name": "Carl Wilhelm Scheele",
+   "life": "1742 – 1786",
+   "role": "Pharmacist and chemist",
+   "from": "Sweden",
+   "note": "Made oxygen first, around 1771–72, but his book came out too late for the credit."
+  },
+  {
+   "name": "Joseph Black",
+   "life": "1728 – 1799",
+   "role": "Physician and chemist",
+   "from": "Scotland (born in France)",
+   "note": "Found fixed air, carbon dioxide, by weighing what solids lose when heated."
+  },
+  {
+   "name": "Michael Faraday",
+   "life": "1791 – 1867",
+   "role": "Chemist and physicist",
+   "from": "England",
+   "note": "Explained a burning candle to children so well that his lectures are still in print."
+  }
+ ],
+ "series": [
+  {
+   "id": "co2",
+   "title": "Carbon dioxide in the air at Mauna Loa, Hawaii",
+   "unit": "parts per million (yearly average)",
+   "log": false,
+   "after": "work",
+   "caption": "Every tonne of carbon we burn leaves as about 3.7 tonnes of CO₂, and much of it stays in the air. Data: NOAA Global Monitoring Laboratory.",
+   "points": [
+    {
+     "year": 1959,
+     "value": 315.98,
+     "label": "First full year of measurements"
+    },
+    {
+     "year": 1970,
+     "value": 325.68,
+     "label": "1970"
+    },
+    {
+     "year": 1980,
+     "value": 338.76,
+     "label": "1980"
+    },
+    {
+     "year": 1990,
+     "value": 354.45,
+     "label": "1990"
+    },
+    {
+     "year": 2000,
+     "value": 369.71,
+     "label": "2000"
+    },
+    {
+     "year": 2010,
+     "value": 390.1,
+     "label": "2010"
+    },
+    {
+     "year": 2020,
+     "value": 414.21,
+     "label": "2020"
+    },
+    {
+     "year": 2025,
+     "value": 427.35,
+     "label": "2025"
+    }
+   ]
+  }
+ ],
+ "facts": [
+  "Burning 1 kg of carbon makes 3.67 kg of carbon dioxide, because each carbon atom picks up two oxygen atoms from the air.",
+  "Priestley told Lavoisier about his new gas over dinner in Paris in October 1774. Lavoisier understood it better than Priestley did.",
+  "Antoine Lavoisier was also a tax collector for the king. That job, not his chemistry, got him guillotined in 1794, during the French Revolution.",
+  "Most of the mass you lose when you slim down leaves through your lungs, as carbon dioxide.",
+  "Einstein's E = mc² means a burning fuel does lose mass, but only about one part in ten billion: no balance has ever seen it."
+ ],
+ "sources": [
+  {
+   "title": "Control of fire by early humans",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans"
+  },
+  {
+   "title": "Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave (Berna et al., 2012)",
+   "publisher": "PNAS",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.1117620109"
+  },
+  {
+   "title": "Wonderwerk Cave",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wonderwerk_Cave"
+  },
+  {
+   "title": "Evidence for the use of fire at Zhoukoudian, China (Weiner et al., 1998)",
+   "publisher": "Science",
+   "url": "https://www.science.org/doi/10.1126/science.281.5374.251"
+  },
+  {
+   "title": "Phlogiston theory",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phlogiston_theory"
+  },
+  {
+   "title": "Georg Ernst Stahl",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Georg-Ernst-Stahl"
+  },
+  {
+   "title": "Joseph Black",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Joseph-Black"
+  },
+  {
+   "title": "Mikhail Lomonosov and the dawn of Russian science",
+   "publisher": "Physics Today",
+   "url": "https://physicstoday.aip.org/features/mikhail-lomonosov-and-the-dawn-of-russian-science"
+  },
+  {
+   "title": "Reflections on the nature of genius: on the 300th anniversary of Mikhail Lomonosov (Shiltsev)",
+   "publisher": "arXiv",
+   "url": "https://arxiv.org/abs/1205.1787"
+  },
+  {
+   "title": "Joseph Priestley and the discovery of oxygen",
+   "publisher": "American Chemical Society, National Historic Chemical Landmarks",
+   "url": "https://www.acs.org/education/whatischemistry/landmarks/josephpriestleyoxygen.html"
+  },
+  {
+   "title": "Carl Wilhelm Scheele",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Carl-Wilhelm-Scheele"
+  },
+  {
+   "title": "Antoine-Laurent Lavoisier: the Chemical Revolution",
+   "publisher": "American Chemical Society, National Historic Chemical Landmarks",
+   "url": "https://www.acs.org/education/whatischemistry/landmarks/lavoisier.html"
+  },
+  {
+   "title": "Antoine Lavoisier",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Antoine_Lavoisier"
+  },
+  {
+   "title": "Marie-Anne Paulze Lavoisier",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Marie-Anne_Paulze_Lavoisier"
+  },
+  {
+   "title": "Traité élémentaire de chimie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Trait%C3%A9_%C3%A9l%C3%A9mentaire_de_chimie"
+  },
+  {
+   "title": "Conservation of mass",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Conservation_of_mass"
+  },
+  {
+   "title": "Davy lamp",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Davy_lamp"
+  },
+  {
+   "title": "The Chemical History of a Candle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Chemical_History_of_a_Candle"
+  },
+  {
+   "title": "Nikolaus August Otto",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Nikolaus-August-Otto"
+  },
+  {
+   "title": "The Keeling Curve",
+   "publisher": "Scripps Institution of Oceanography, UC San Diego",
+   "url": "https://keelingcurve.ucsd.edu/"
+  },
+  {
+   "title": "Mauna Loa CO2 annual mean data",
+   "publisher": "NOAA Global Monitoring Laboratory",
+   "url": "https://gml.noaa.gov/ccgg/trends/data.html"
+  },
+  {
+   "title": "Catalytic converter",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Catalytic_converter"
+  },
+  {
+   "title": "When somebody loses weight, where does the fat go? (Meerman and Brown, 2014)",
+   "publisher": "BMJ",
+   "url": "https://www.bmj.com/content/349/bmj.g7257"
+  },
+  {
+   "title": "Robert Boyle",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Robert-Boyle"
+  },
+  {
+   "title": "Antoine Lavoisier",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Antoine-Lavoisier"
+  },
+  {
+   "title": "Mass–energy equivalence",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence"
+  },
+  {
+   "title": "Greenhouse gas emissions from a typical passenger vehicle",
+   "publisher": "US Environmental Protection Agency",
+   "url": "https://www.epa.gov/greenhouse-gas-emissions-typical-passenger-vehicle"
+  },
+  {
+   "title": "Joseph Priestley",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Joseph-Priestley"
+  },
+  {
+   "title": "Michael Faraday",
+   "publisher": "Royal Institution",
+   "url": "https://www.rigb.org/explore-science/explore/person/michael-faraday"
+  }
+ ]
+}

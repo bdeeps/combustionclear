@@ -1,0 +1,166 @@
+{
+  "slug": "combustionclear",
+  "kind": "principle",
+  "box": 13,
+  "date": "2026-09-27",
+  "title": "Combustion and conservation of mass",
+  "question": "What is combustion?",
+  "principle": {
+    "type": "law",
+    "name": "Combustion and conservation of mass",
+    "formula": "fuel + O₂ → CO₂ + H₂O + heat",
+    "formulaNote": "burning joins a fuel with oxygen and swaps the atoms' partners, so the mass of fuel + oxygen going in equals the mass of carbon dioxide + water coming out. For methane: CH₄ + 2 O₂ → CO₂ + 2 H₂O, 16 g + 64 g = 44 g + 36 g",
+    "idea": "When something burns, it joins with oxygen from the air and its atoms regroup into new substances, mostly carbon dioxide and water, releasing heat. No atom is made or destroyed, so in a closed container the total mass never changes: a burning candle only seems to vanish because its gases float away.",
+    "discovered": "1774–1789 · Antoine and Marie-Anne Lavoisier, Paris (Mikhail Lomonosov found the same with sealed flasks in St Petersburg in 1756, but his result was little known in the West)",
+    "art": "flame",
+    "appliesTo": [
+      "carclear",
+      "motorcycleclear",
+      "chimneyclear",
+      "waterheaterclear",
+      "lungsclear"
+    ],
+    "examples": [
+      {
+        "title": "The LPG cylinder in your kitchen",
+        "text": "A 14.2 kg cylinder of LPG burns to about 43 kg of carbon dioxide and 22 kg of water vapour, because every carbon atom picks up two oxygen atoms from the kitchen air. The hood carries them outside.",
+        "box": "chimneyclear"
+      },
+      {
+        "title": "Blue flame, yellow flame",
+        "text": "A gas flame with enough air mixed in burns its carbon completely and glows blue. Starved of air, glowing soot turns it yellow and some carbon monoxide escapes.",
+        "box": "chimneyclear"
+      },
+      {
+        "title": "A car's petrol engine",
+        "text": "Each gram of petrol needs 14.7 g of air to burn completely. A litre of petrol weighs 0.74 kg but leaves the tailpipe as about 2.3 kg of CO₂ and 0.9 kg of water.",
+        "box": "carclear"
+      },
+      {
+        "title": "The catalytic converter",
+        "text": "When the mixture is off balance, some carbon leaves as poisonous CO and unburnt fuel. The converter's platinum-coated honeycomb finishes the job, turning CO into CO₂.",
+        "box": "carclear"
+      },
+      {
+        "title": "A motorbike's engine",
+        "text": "A 125 cc bike doing 50 km on a litre still turns that 0.74 kg of petrol into about 2.3 kg of CO₂: roughly 47 g for every kilometre.",
+        "box": "motorcycleclear"
+      },
+      {
+        "title": "A gas geyser",
+        "text": "A gas geyser heating 6 litres a minute burns about 1 kg of LPG an hour, sending about 3 kg of CO₂ and 1.5 kg of water vapour up its flue. That's why it must be vented outdoors.",
+        "box": "waterheaterclear"
+      },
+      {
+        "title": "Where lost fat goes",
+        "text": "Your cells burn food slowly with the oxygen you breathe. Follow the atoms of 10 kg of lost fat and 8.4 kg of it leaves as CO₂ through your lungs, the rest as water.",
+        "box": "lungsclear"
+      },
+      {
+        "title": "Steel wool that gets heavier",
+        "text": "Burning steel wool on a balance gets heavier, not lighter, because the iron takes in oxygen to become iron oxide. Rust is the same reaction, only slow."
+      },
+      {
+        "title": "Putting out a fire",
+        "text": "A fire needs fuel, heat and oxygen. Water soaks up heat, about 2.6 MJ per kilogram as it boils; a CO₂ extinguisher pushes the oxygen below the roughly 15 % a flame needs."
+      }
+    ]
+  },
+  "hook": "Burn a gas in a sealed jar on a balance and the reading doesn't budge: every atom is still there, just with new partners. Count them, weigh an LPG cylinder's 43 kg of CO₂, tune an engine's 14.7 : 1 mixture, put out a fire, and find out why lost fat leaves through your lungs.",
+  "thumbText": "COMBUSTION",
+  "field": "chemistry",
+  "minutes": 13,
+  "tags": [
+    "combustion",
+    "conservation of mass",
+    "Lavoisier",
+    "chemical equations",
+    "stoichiometry",
+    "LPG",
+    "carbon dioxide",
+    "carbon monoxide",
+    "air-fuel ratio",
+    "catalytic converter",
+    "fire triangle",
+    "respiration",
+    "phlogiston",
+    "E = mc²",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Burning swaps partners",
+      "text": "A fuel made of carbon and hydrogen joins with oxygen. Every carbon ends up in CO₂ and every hydrogen in H₂O: CH₄ + 2 O₂ → CO₂ + 2 H₂O. The atoms are the same on both sides, so the mass is too."
+    },
+    {
+      "title": "Gases weigh more than the fuel",
+      "text": "The oxygen comes from the air, so the products outweigh the fuel. A 14.2 kg LPG cylinder makes about 43 kg of CO₂, and a litre of petrol, 0.74 kg, makes about 2.3 kg."
+    },
+    {
+      "title": "Air decides how clean it burns",
+      "text": "Petrol needs 14.7 g of air per gram. With too little, carbon stops at carbon monoxide or soot: a yellow flame, a dirty exhaust, or a deadly room. A catalytic converter needs the mixture just right."
+    },
+    {
+      "title": "Fire and your body",
+      "text": "Take away fuel, heat or oxygen and a fire goes out. Your cells run the same reaction slowly: about 84 % of the fat you lose is breathed out as CO₂."
+    },
+    {
+      "title": "The limits",
+      "text": "A candle only seems to vanish, because it is an open system. E = mc² does take away about one part in 10 billion of the mass, far too little for any balance, so for chemistry mass is conserved."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Combustion",
+      "def": "A fast reaction of a fuel with oxygen that gives out heat and light."
+    },
+    {
+      "term": "Conservation of mass",
+      "def": "In a closed system, the total mass stays the same through any chemical reaction."
+    },
+    {
+      "term": "Balanced equation",
+      "def": "A reaction written with the same number of each kind of atom on both sides."
+    },
+    {
+      "term": "Closed and open systems",
+      "def": "A closed system lets no matter in or out; an open one, like a candle in a room, swaps matter with its surroundings."
+    },
+    {
+      "term": "Air–fuel ratio",
+      "def": "Mass of air per mass of fuel. Petrol burns completely at 14.7 : 1."
+    },
+    {
+      "term": "Incomplete combustion",
+      "def": "Burning with too little oxygen, which leaves carbon monoxide and soot."
+    },
+    {
+      "term": "Heating value",
+      "def": "Heat from burning 1 kg of fuel: about 50 MJ for methane, 46 for LPG, 44 for petrol and 16 to 18 for dry wood."
+    },
+    {
+      "term": "Fire triangle",
+      "def": "Fuel, heat and oxygen: a fire needs all three."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "combustionclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

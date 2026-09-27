@@ -1,0 +1,125 @@
+{
+  "slug": "combustionclear",
+  "box": 13,
+  "question": "What is combustion?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/combustionclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/combustionclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a million-year-old campfire to the Keeling Curve: how people learned that burning destroys nothing.\n\n1000000 BCE: Ash deep inside a cave\n1703: Phlogiston: fire as a substance\n1756: Lomonosov's sealed flasks\n1774: Priestley's candle burns brighter\n1774: Tin in a sealed retort\n1789: The law in a textbook\n\nThe full story, with 20 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/combustionclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/combustionclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #combustion #conservationofmass #lavoisier #chemicalequations #stoichiometry #lpg #history",
+      "youtube": {
+        "title": "The history of combustion and conservation of mass in 45 seconds #shorts",
+        "description": "From a million-year-old campfire to the Keeling Curve: how people learned that burning destroys nothing.\n\n1000000 BCE · Ash deep inside a cave (Early humans, probably Homo erectus)\n1703 · Phlogiston: fire as a substance (Georg Ernst Stahl)\n1756 · Lomonosov's sealed flasks (Mikhail Lomonosov)\n1774 · Priestley's candle burns brighter (Joseph Priestley)\n1774 · Tin in a sealed retort (Antoine Lavoisier)\n1789 · The law in a textbook (Antoine Lavoisier, with drawings by Marie-Anne Lavoisier)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/combustionclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/combustionclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is combustion?\n\nBurn a gas in a sealed jar on a balance and the reading doesn't budge: every atom is still there, just with new partners. Count them, weigh an LPG cylinder's 43 kg of CO₂, tune an engine's 14.7 : 1 mixture, put out a fire, and find out why lost fat leaves through your lungs.\n\n→ Burn methane in a sealed jar and every atom just swaps partners. The balance does not move.\n→ Open the jar and the fuel seems to vanish. Its gases float away, heavier than the fuel was.\n→ Burn a 14.2 kg LPG cylinder and you make about 43 kg of CO₂, with oxygen taken from the air.\n→ Steel wool gets heavier as it burns. The iron grabs oxygen: Lavoisier’s big clue.\n→ A litre of petrol weighs 0.74 kg but makes 2.3 kg of CO₂. The rest is oxygen from 11 kg of air.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/combustionclear (link in bio)\n\nBox No. L13 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #combustion #conservationofmass #lavoisier #chemicalequations #stoichiometry #lpg #carbondioxide #carbonmonoxide #airfuelratio",
+    "carousel": "Swipe through: What is combustion?\n\nBurn a gas in a sealed jar on a balance and the reading doesn't budge: every atom is still there, just with new partners. Count them, weigh an LPG cylinder's 43 kg of CO₂, tune an engine's 14.7 : 1 mixture, put out a fire, and find out why lost fat leaves through your lungs.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/combustionclear (link in bio).\n\nBox No. L13 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #combustion #conservationofmass #lavoisier #chemicalequations #stoichiometry #lpg",
+    "youtube": {
+      "title": "What is combustion? #shorts",
+      "description": "Burn a gas in a sealed jar on a balance and the reading doesn't budge: every atom is still there, just with new partners. Count them, weigh an LPG cylinder's 43 kg of CO₂, tune an engine's 14.7 : 1 mixture, put out a fire, and find out why lost fat leaves through your lungs.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/combustionclear/\n⌘ Source code (MIT): https://github.com/bdeeps/combustionclear\n\nBox No. L13 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is combustion? (interactive explainer)",
+      "description": "Burn a gas in a sealed jar on a balance and the reading doesn't budge: every atom is still there, just with new partners. Count them, weigh an LPG cylinder's 43 kg of CO₂, tune an engine's 14.7 : 1 mixture, put out a fire, and find out why lost fat leaves through your lungs.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/combustionclear/\n⌘ Source code (MIT): https://github.com/bdeeps/combustionclear\n\nIn this video:\n• Burning swaps partners. A fuel made of carbon and hydrogen joins with oxygen.\n• Gases weigh more than the fuel. The oxygen comes from the air, so the products outweigh the fuel.\n• Air decides how clean it burns. Petrol needs 14.7 g of air per gram.\n• Fire and your body. Take away fuel, heat or oxygen and a fire goes out.\n• The limits. A candle only seems to vanish, because it is an open system.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is combustion?\n\nBurn a gas in a sealed jar on a balance and the reading doesn't budge: every atom is still there, just with new partners.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/combustionclear/",
+    "linkedin": "What is combustion?\n\nBurn a gas in a sealed jar on a balance and the reading doesn't budge: every atom is still there, just with new partners. Count them, weigh an LPG cylinder's 43 kg of CO₂, tune an engine's 14.7 : 1 mixture, put out a fire, and find out why lost fat leaves through your lungs.\n\n1. Burning swaps partners\n2. Gases weigh more than the fuel\n3. Air decides how clean it burns\n4. Fire and your body\n5. The limits\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L13 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/combustionclear/\nCode: https://github.com/bdeeps/combustionclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T16:54:02.437Z"
+}
